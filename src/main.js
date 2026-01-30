@@ -4,7 +4,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import { createPinia } from "pinia";
 
 // Pages
-import HomePage from "./pages/HomePage.vue";
+import HomePage from "./pages/Homepage.vue";
 import BlogPage from "./pages/BlogPage.vue";
 import BlogCard from "./components/BlogCard.vue";
 import LoginPage from "./pages/LoginPage.vue";
